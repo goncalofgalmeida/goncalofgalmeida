@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi, I'm Gonçalo 👋
 👩🏻‍💻 I’m currently studying at 42Porto, an innovative software development school present all around the world<br>🔭 I'm deeply into sports, music and nature<br>🛠️ I have work experience in Marketing and IT project management<br>
 
 # 💻 Tech Stack:
