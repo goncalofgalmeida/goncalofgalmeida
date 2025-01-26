@@ -1,7 +1,7 @@
 #  Welcome to my GitHub👋
 Hi, I'm Gonçalo! I’m currently a programming student at 42Porto, diving deep into C and software development. I love retro tech and sports, and learning how to build clean, efficient code.
 
-![Cool gif](https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif)
+![Cool gif](https://github.com/goncalofgalmeida/goncalofgalmeida/blob/main/cool-gif.gif)
 
 # 💻 Skills and Technologies:
 - **Languages:** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
