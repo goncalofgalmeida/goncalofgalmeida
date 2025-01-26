@@ -26,7 +26,6 @@ to develop my own web app for people that love playing sports with their friends
 ## 🏫 42 Porto Projects
 | Project       | Status    | Description                          |
 |---------------|-----------|--------------------------------------|
-| **Rank 1**    | **Rank 1**| **Rank 1**                           |
 | Libft         | ✅ Done   | Custom implementation of C functions |
 | ft_printf     | ✅ Done   | Recreation of the one and only printf function |
 | get_next_line | ✅ Done   | A custom function that reads content line by line |
