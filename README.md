@@ -32,6 +32,6 @@ to develop my own web app for people that love playing sports with their friends
 | ft_printf     | ✅ Done   | Recreation of the one and only printf function |
 | get_next_line | ✅ Done   | A custom function that reads content line by line |
 | Born2beroot   | ✅ Done   | Creation of a virtual machine with custom rules and strict requirements |
-| [push_swap](https://github.com/goncalofgalmeida/push_swap) | 🛠️ In Progress | A sorting algorithm project demonstrating stack manipulation and efficiency |
 | [minitalk](https://github.com/goncalofgalmeida/minitalk)   | 🛠️ In Progress | A data exchange program using UNIX signals |
+| [push_swap](https://github.com/goncalofgalmeida/push_swap) | 🛠️ In Progress | A sorting algorithm project demonstrating stack manipulation and efficiency |
 | [so_long](https://github.com/goncalofgalmeida/so_long)     | 🛠️ In Progress | A small 2D game developed in C |
