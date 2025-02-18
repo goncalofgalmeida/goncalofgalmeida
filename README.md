@@ -8,20 +8,20 @@ to develop my own web app for people that love playing sports with their friends
 
 ---
 
-# 💻 Skills and Technologies:
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,js,html,css)](https://skillicons.dev)
-### Tools
-[![My Tools](https://skillicons.dev/icons?i=arduino,git,aws,heroku,supabase,cloudflare,vscode,vim,ps,ai,notion)](https://skillicons.dev)
-
----
-
 ## 🚀 Current Projects
 
 [//]: # ( - [push_swap] https://github.com/goncalofgalmeida/push_swap: A sorting algorithm project demonstrating stack manipulation and algorithmic efficiency.)
 [//]: # ( - [so_long] https://github.com/goncalofgalmeida/so_long: A small 2D game developed in C.)
 - [minitalk](https://github.com/goncalofgalmeida/minitalk): A data exchange program using UNIX signals.
 - [Tic Tac Toe](https://github.com/goncalofgalmeida/tic-tac-toe): A browser playable tic tac toe game, developed using HTML, CSS and JS.
+
+---
+
+# 💻 Skills and Technologies:
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=c,js,html,css)](https://skillicons.dev)
+### Tools
+[![My Tools](https://skillicons.dev/icons?i=arduino,git,aws,heroku,supabase,cloudflare,vscode,vim,ps,ai,notion)](https://skillicons.dev)
 
 ---
 
