@@ -35,3 +35,11 @@ to develop my own web app for people that love playing sports with their friends
 | [minitalk](https://github.com/goncalofgalmeida/minitalk)   | 🛠️ In Progress | A data exchange program using UNIX signals |
 | [push_swap](https://github.com/goncalofgalmeida/push_swap) | 🛠️ In Progress | A sorting algorithm project demonstrating stack manipulation and efficiency |
 | [so_long](https://github.com/goncalofgalmeida/so_long)     | 🛠️ In Progress | A small 2D game developed in C |
+
+---
+
+## 🏫 The Odin Project (cool) projects
+| Project       | Status    | Description                          |
+|---------------|-----------|--------------------------------------|
+| [(OP) Tic Tac Toe](https://github.com/goncalofgalmeida/tic-tac-toe) | ✅ Done | A browser playable tic tac toe game with my own custom rules and UI |
+| Restaurant Page | ⏳ Next Up | Dynamically rendering a restaurant homepage using npm package manager |
