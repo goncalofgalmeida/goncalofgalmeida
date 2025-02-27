@@ -13,7 +13,6 @@ to develop my own web app for people that love playing sports with their friends
 [//]: # ( - [push_swap] https://github.com/goncalofgalmeida/push_swap: A sorting algorithm project demonstrating stack manipulation and algorithmic efficiency.)
 [//]: # ( - [so_long] https://github.com/goncalofgalmeida/so_long: A small 2D game developed in C.)
 - [minitalk](https://github.com/goncalofgalmeida/minitalk): A data exchange program using UNIX signals.
-- [Over-powered Tic Tac Toe](https://github.com/goncalofgalmeida/tic-tac-toe): A browser playable tic tac toe game (with a twist), developed using vanilla HTML, CSS and JS.
 
 ---
 
