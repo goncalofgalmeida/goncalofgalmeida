@@ -1,8 +1,8 @@
 #  Welcome to my GitHub👋
-Hi, I'm Gonçalo! I’m currently a programming student at [42 Porto](https://www.42porto.com/), diving deep into C and software development.<br>
+Hi, I'm Gonçalo!<br>
+I’m currently a programming student at [42 Porto](https://www.42porto.com/), diving deep into C and software development.<br>
 I love retro tech, sports, and learning how to build clean, efficient code.<br>
-Parallel to 42, I'm also studying Web Development via the [The Odin Project's](https://www.theodinproject.com/) Full Stack Javascript course, as I aim<br>
-to develop my own web app for people that love playing sports with their friends.
+Parallel to 42, I'm also studying Web Development via the [The Odin Project's](https://www.theodinproject.com/) Full Stack Javascript course, as I aim to develop my own web app for people that love playing sports with their friends.
 
 ![Cool gif](https://github.com/goncalofgalmeida/goncalofgalmeida/blob/main/cool-gif.gif)
 
