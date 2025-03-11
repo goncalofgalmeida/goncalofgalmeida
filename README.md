@@ -11,8 +11,8 @@ Parallel to 42, I'm also studying Web Development via the [The Odin Project's](h
 ## 🚀 Current Projects
 
 [//]: # ( - [push_swap] https://github.com/goncalofgalmeida/push_swap: A sorting algorithm project demonstrating stack manipulation and algorithmic efficiency.)
-[//]: # ( - [so_long] https://github.com/goncalofgalmeida/so_long: A small 2D game developed in C.)
 - [minitalk](https://github.com/goncalofgalmeida/minitalk): A data exchange program using UNIX signals.
+- [so_long](https://github.com/goncalofgalmeida/so_long): A small 2D game developed in C.
 
 ---
 
@@ -32,8 +32,8 @@ Parallel to 42, I'm also studying Web Development via the [The Odin Project's](h
 | get_next_line | ✅ Done   | A custom function that reads content line by line |
 | Born2beroot   | ✅ Done   | Creation of a virtual machine with custom rules and strict requirements |
 | [minitalk](https://github.com/goncalofgalmeida/minitalk)   | 🛠️ In Progress | A data exchange program using UNIX signals |
-| [push_swap](https://github.com/goncalofgalmeida/push_swap) | 🛠️ In Progress | A sorting algorithm project demonstrating stack manipulation and efficiency |
 | [so_long](https://github.com/goncalofgalmeida/so_long)     | 🛠️ In Progress | A small 2D game developed in C |
+| [push_swap](https://github.com/goncalofgalmeida/push_swap) | 🛠️ In Progress | A sorting algorithm project demonstrating stack manipulation and efficiency |
 
 ---
 
