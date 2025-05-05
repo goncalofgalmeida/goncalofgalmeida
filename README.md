@@ -44,6 +44,6 @@ Parallel to 42, I'm also studying Web Development via the [The Odin Project's](h
 | Project       | Status    | Description                          |
 |---------------|-----------|--------------------------------------|
 | [(OP) Tic Tac Toe](https://github.com/goncalofgalmeida/tic-tac-toe) | ✅ Done | A browser playable tic tac toe game with my own custom rules and UI |
-| BookBot | ✅ Done | A simple Python program that analyzes a .txt file (book) and provides statistics about its contents |
+| [BookBot](https://github.com/goncalofgalmeida/bookbot) | ✅ Done | A simple Python program that analyzes a .txt file (book) and provides statistics about its contents |
 
 [//]: # (| [PLACEHOLDER] | ⏳ Next Up | [PLACEHOLDER] |)
