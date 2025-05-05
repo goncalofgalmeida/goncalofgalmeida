@@ -1,4 +1,5 @@
 #  Welcome to my GitHub👋
+
 Hi, I'm Gonçalo!<br>
 I’m currently a programming student at [42 Porto](https://www.42porto.com/), diving deep into C and software development.<br>
 I love retro tech, sports, and learning how to build clean, efficient code.<br>
@@ -17,8 +18,10 @@ Parallel to 42, I'm also studying Web Development via the [The Odin Project's](h
 ---
 
 # 💻 Skills and Technologies:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalofgalmeida&layout=compact)
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,python)](https://skillicons.dev)
 ### Tools
 [![My Tools](https://skillicons.dev/icons?i=arduino,git,aws,heroku,supabase,cloudflare,vscode,vim,ps,ai,notion)](https://skillicons.dev)
 
@@ -37,8 +40,10 @@ Parallel to 42, I'm also studying Web Development via the [The Odin Project's](h
 
 ---
 
-## 🏫 The Odin Project (cool) projects
+## 🏫 Other (cool) projects
 | Project       | Status    | Description                          |
 |---------------|-----------|--------------------------------------|
 | [(OP) Tic Tac Toe](https://github.com/goncalofgalmeida/tic-tac-toe) | ✅ Done | A browser playable tic tac toe game with my own custom rules and UI |
-| Restaurant Page | ⏳ Next Up | Dynamically rendering a restaurant homepage using npm package manager |
+| BookBot | ✅ Done | A simple Python program that analyzes a .txt file (book) and provides statistics about its contents |
+
+[//]: # (| [PLACEHOLDER] | ⏳ Next Up | [PLACEHOLDER] |)
