@@ -45,5 +45,6 @@ Parallel to 42, I'm also studying Web Development via the [The Odin Project's](h
 |---------------|-----------|--------------------------------------|
 | [(OP) Tic Tac Toe](https://github.com/goncalofgalmeida/tic-tac-toe) | ✅ Done | A browser playable tic tac toe game with my own custom rules and UI |
 | [BookBot](https://github.com/goncalofgalmeida/bookbot) | ✅ Done | A simple Python program that analyzes a .txt file (book) and provides statistics about its contents |
+| [Asteroids](https://github.com/goncalofgalmeida/asteroids-game) | ✅ Done | A recreation of the famous Asteroids game using Python and pygame |
 
 [//]: # (| [PLACEHOLDER] | ⏳ Next Up | [PLACEHOLDER] |)
