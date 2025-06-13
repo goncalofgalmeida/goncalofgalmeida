@@ -12,9 +12,8 @@ A life goal of mine is to develop my own web app for people that love playing sp
 
 ## 🚀 Current Projects
 
-[//]: # ( - [push_swap] https://github.com/goncalofgalmeida/push_swap: A sorting algorithm project demonstrating stack manipulation and algorithmic efficiency.)
 - [minitalk](https://github.com/goncalofgalmeida/minitalk): A data exchange program using UNIX signals.
-- [so_long](https://github.com/goncalofgalmeida/so_long): A small 2D game developed in C.
+- [push_swap](https://github.com/goncalofgalmeida/push_swap): A sorting algorithm project demonstrating stack manipulation and algorithmic efficiency.
 
 ---
 
@@ -35,8 +34,8 @@ A life goal of mine is to develop my own web app for people that love playing sp
 | ft_printf     | ✅ Done   | Recreation of the one and only printf function |
 | get_next_line | ✅ Done   | A custom function that reads content line by line |
 | Born2beroot   | ✅ Done   | Creation of a virtual machine with custom rules and strict requirements |
+| [so_long](https://github.com/goncalofgalmeida/so_long) | ✅ Done | A small 2D game developed in C |
 | [minitalk](https://github.com/goncalofgalmeida/minitalk)   | 🛠️ In Progress | A data exchange program using UNIX signals |
-| [so_long](https://github.com/goncalofgalmeida/so_long)     | 🛠️ In Progress | A small 2D game developed in C |
 | [push_swap](https://github.com/goncalofgalmeida/push_swap) | 🛠️ In Progress | A sorting algorithm project demonstrating stack manipulation and efficiency |
 
 ---
