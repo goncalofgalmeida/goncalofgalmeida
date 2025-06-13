@@ -13,7 +13,7 @@ A life goal of mine is to develop my own web app for people that love playing sp
 ## 🚀 Current Projects
 
 - [minitalk](https://github.com/goncalofgalmeida/minitalk): A data exchange program using UNIX signals.
-- [push_swap](https://github.com/goncalofgalmeida/push_swap): A sorting algorithm project demonstrating stack manipulation and algorithmic efficiency.
+- [push_swap](https://github.com/goncalofgalmeida/push-swap): A sorting algorithm project demonstrating stack manipulation and algorithmic efficiency.
 
 ---
 
