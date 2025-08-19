@@ -16,10 +16,10 @@ A life goal of mine is to develop my own web app for people that love playing sp
 # 💻 Skills and Technologies:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalofgalmeida&layout=compact)
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=c,js,html,css,python)](https://skillicons.dev)
+### Languages and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,js,html,css,python,c)](https://skillicons.dev)
 ### Tools
-[![My Tools](https://skillicons.dev/icons?i=git,aws,heroku,supabase,cloudflare,vscode,notion)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=mongodb,git,aws,heroku,supabase,cloudflare,vscode,notion)](https://skillicons.dev)
 
 ---
 
