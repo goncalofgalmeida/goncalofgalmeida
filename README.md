@@ -19,7 +19,7 @@ A life goal of mine is to develop my own web app for people that love playing sp
 ### Languages and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,js,html,css,python,c)](https://skillicons.dev)
 ### Tools
-[![My Tools](https://skillicons.dev/icons?i=mongodb,git,aws,heroku,supabase,cloudflare,vscode,notion)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,docker,mongodb,aws,heroku,supabase,cloudflare,vscode,notion)](https://skillicons.dev)
 
 ---
 
